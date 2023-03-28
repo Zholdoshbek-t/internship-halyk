@@ -1,0 +1,9 @@
+insert into http_method(name) values ('GET');
+insert into http_method(name) values ('HEAD');
+insert into http_method(name) values ('POST');
+insert into http_method(name) values ('PUT');
+insert into http_method(name) values ('DELETE');
+insert into http_method(name) values ('OPTIONS');
+insert into http_method(name) values ('TRACE');
+insert into http_method(name) values ('PATCH');
+insert into http_method(name) values ('UNKNOWN');
